@@ -1,10 +1,5 @@
 # Applying Transfer Learning to Image Super-Resolution
 
-**University:** Aarhus University, Department of Computer Science  
-**Date:** December 2025   
-**Authors:** Andreas W. R. Madsen, Benno Kossatz, Md Sadik Hasan Khan 
-
-## 📝 Abstract
 This project explores the potential of combining Transfer Learning with Convolutional Neural Networks (CNNs) for the Image Super-Resolution (SR) task. 
 We implemented a custom CNN based on an encoder-decoder architecture, utilizing a pre-trained VGG16 network as a feature extractor.
 The model was trained on the T91 dataset and validated on Set5 and Set14.
