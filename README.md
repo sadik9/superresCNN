@@ -58,7 +58,7 @@ While our PSNR is lower than state-of-the-art transformers, the **VGGSR** model 
 
 ### Training
 To train the model using the T91 dataset patches:
-```bash
+
 python train.py --epochs 200 --batch_size 16 --lr 0.001
 
 ## Setup
