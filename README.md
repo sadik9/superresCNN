@@ -70,10 +70,3 @@ python train.py --epochs 200 --batch_size 16 --lr 0.001
 2. Install correct PyTorch version https://pytorch.org/get-started/locally/
     - (Latest Cuda Version 12.4: `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124`)
 3. Install other requirements using `pip install -r requirements.txt`
-
-
-## Setup
-1. Create a new virtual environment
-2. Install correct PyTorch version https://pytorch.org/get-started/locally/
-    - (Latest Cuda Version 12.4: `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124`)
-3. Install other requirements using `pip install -r requirements.txt`
